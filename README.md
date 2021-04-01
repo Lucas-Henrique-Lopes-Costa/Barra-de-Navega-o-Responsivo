@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # [Responsive Bar](https://github.com/Lucas-Henrique-Lopes-Costa/Barra-de-Navegacao-Responsivel)
 
 ### Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Barra-de-Navegacao-Responsivel/" target="_blank">Site Preview</a>
@@ -40,6 +39,7 @@ porque quando passa o mouse em cima (``.navbar:hover``) ele transforma tudo em *
 <h4>Parte Resposível</h4>
 
 <h5>Telas Pequenas</h5>
+
 ````
 @media only screen and (max-width: 600px) {
   .navbar {
