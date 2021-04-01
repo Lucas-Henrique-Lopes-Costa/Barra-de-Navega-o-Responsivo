@@ -22,7 +22,6 @@
   --bg-primary: #ffffff;
   --bg-secondary: #e4e4e4;
   --background-color: #ffffff;
-
 }
 
 .solar {
@@ -31,7 +30,6 @@
   --bg-primary: #fdf6e3;
   --bg-secondary: #f5e5b8;
   --background-color: #caba60a3;
-
 }
 
 body {
@@ -41,15 +39,15 @@ body {
   padding: 0;
 }
 
-body::-webkit-scrollbar {
+body::-webkit-scrollbar { /* :tamanho da barra de rolagem */
   width: 0.25rem;
 }
 
-body::-webkit-scrollbar-track {
-  background: #1e1e24;
+body::-webkit-scrollbar-track { /* :cor de fundo da barra de rolagem */
+  background: var(--bg-primary);
 }
 
-body::-webkit-scrollbar-thumb {
+body::-webkit-scrollbar-thumb { /* :mudando a cor da barra de rolagem de dentro */
   background: #6649b8;
 }
 
@@ -58,7 +56,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .navbar::-webkit-scrollbar-track {
-  background: #1e1e24;
+  background: var(--bg-primary);
 }
 
 main {
@@ -179,7 +177,7 @@ main {
   }
 
   .nav-link {
-    justify-content: center;
+    justify-content: center; 
   }
 
   main {
@@ -211,7 +209,6 @@ main {
     left: 0px;
   }
 }
-
 
 
 .theme-icon {
