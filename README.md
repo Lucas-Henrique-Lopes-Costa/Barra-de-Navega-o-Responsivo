@@ -1,4 +1,4 @@
-# [Responsive Bar](https://github.com/Lucas-Henrique-Lopes-Costa/Barra-de-Navegacao-Responsivel)
+# [Responsive Navigation Bar](https://github.com/Lucas-Henrique-Lopes-Costa/Barra-de-Navegacao-Responsivel)
 
 ### Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Barra-de-Navegacao-Responsivel/" target="_blank">Site Preview</a>
 #### USABILITY DEMONSTRATION VIDEO:
