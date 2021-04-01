@@ -26,6 +26,7 @@ body::-webkit-scrollbar-thumb { /* :mudando a cor da barra de rolagem de dentro 
   background: #6649b8;
 }
 ````
+<h4>Barra de Navegação</h4>
 
 Para rotacionar o **Logo** quando passamos o mouse, usamos:
 
@@ -36,7 +37,7 @@ Para rotacionar o **Logo** quando passamos o mouse, usamos:
 ```
 porque quando passa o mouse em cima (``.navbar:hover``) ele transforma tudo em *-180 grau*
 
-<h4>Parte Resposível</h4>
+<h4>Parte Responsivo</h4>
 
 <h5>Telas Pequenas</h5>
 
