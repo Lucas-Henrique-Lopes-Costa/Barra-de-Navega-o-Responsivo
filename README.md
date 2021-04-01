@@ -105,7 +105,7 @@ Já quando passamos o mouse em cima da barra de navegação, ele define o compri
 ---
 
 ## Training JS
-Usando Java Script para mudar o tipo de tema do layout. 
+Usando Java Script para mudar o **tipo de tema** do layout. 
 
 Quando clicar no botão que possue o **id: themeButton** chama a função "toggleTheme".
 
@@ -122,7 +122,7 @@ function toggleTheme() {
 }
 ````
 
-Na função "toogleTheme" usamos uma função chamada "localStorage" que atribui à variável __current__ o tema ("theme") atual.
+Na função "toogleTheme" usamos uma função chamada ["localStorage"](https://www.w3schools.com/jsref/prop_win_localstorage.asp) que atribui à variável __current__ o tema ("theme") atual.
 
 Depois para pegar o **próximo tema**, usamos um objeto que é um dicionário: _para cada tema atual, qual deve ser o próximo_. Esse valor é armazenado na variável *next*.
 
